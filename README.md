@@ -18,4 +18,4 @@ Raw data for the cumulative number of confirmed cases, deaths, and recoveries in
 - Cases in the most affected countries outside of China
 - Comparison between deaths in China and Italy
 - Cases and deaths in the United States
-- Cases in the most affected states in the United States
+- Comparison among cases in the most affected states in the United States
