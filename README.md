@@ -9,7 +9,7 @@ Raw data for the cumulative number of confirmed cases, deaths, and recoveries in
 [Kaggle](ttps://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
 
 ## Objectives
-- To demonstrate the ease in utility of the pandas and matplotlib libraries in Python for exploratory analysis
+- To demonstrate the ease in utility of the Python pandas and matplotlib libraries for exploratory analysis
 - To highlight the severity of the coronavirus outbreak in the most affected countries as of March 2020
 - To suggest insights into the correlation between the effectiveness of governmental regulations and the increase in cases in each country
 - To provide a foundation for predictive analysis
