@@ -5,7 +5,7 @@ Coronavirus disease 2019 (COVID-19) is believed to have originated in Wuhan, Chi
 
 ## Raw Data
 Raw data for the cumulative number of confirmed cases, deaths, and recoveries in each country observed by date since January 22, 2020 is aggregated by Johns Hopkins University and transformed to a CSV file by
-[Kaggle](ttps://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
+[Kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
 
 ## Objectives
 - To demonstrate the ease in utility of the Python pandas and matplotlib libraries for exploratory analysis
