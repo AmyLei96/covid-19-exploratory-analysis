@@ -5,7 +5,8 @@ Since the spread of coronavirus disease 2019 (COVID-19) across the world in Janu
 tracking the number of cases, deaths, and recoveries in each country have become publicly available. 
 
 ## Raw Data
-Raw data for the cumulative number of confirmed cases, deaths, and recoveries in each country observed by date since January 22, 2020 is aggregated by Johns Hopkins University and transformed to a CSV file hosted on [Kaggle] (https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
+Raw data for the cumulative number of confirmed cases, deaths, and recoveries in each country observed by date since January 22, 2020 is aggregated by Johns Hopkins University and transformed to a CSV file hosted on 
+[Kaggle](ttps://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
 
 ## Objectives
 - To demonstrate the ease in utility of the pandas and matplotlib libraries in Python for exploratory analysis
