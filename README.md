@@ -10,12 +10,12 @@ Raw data for the cumulative number of confirmed cases, deaths, and recoveries in
 ## Objectives
 - To demonstrate the ease in utility of the Python pandas and matplotlib libraries for exploratory analysis
 - To highlight the severity of the coronavirus outbreak in the most affected countries as of March 2020
-- To suggest insights into the correlation between the effectiveness of governmental regulations and the increase in cases in each country
+- To suggest insights into the correlation between the effectiveness of government regulations and the increase in cases in each country
 - To provide a foundation for predictive analysis
 
 ## Analysis
-- Number of confirmed cases and deaths in China
-- Number of confirmed cases in the most affected countries outside of China
-- Comparison between the number of deaths due to COVID-19 in China and Italy
-- Number of confirmed cases and deaths in the United States
-- Comparison among the number of cases in the most affected states in the United States
+- Cases and deaths in China
+- Cases in the most affected countries outside of China
+- Comparison between deaths in China and Italy
+- Cases and deaths in the United States
+- Cases in the most affected states in the United States
